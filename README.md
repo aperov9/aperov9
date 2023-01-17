@@ -24,6 +24,6 @@ In English, German or Serbian...
 
 ### 🔭 Latest releases I've contributed to
 
-- [connelldave/botocove](https://github.com/connelldave/botocove) ([v1.7.1](https://github.com/connelldave/botocove/releases/tag/v1.7.1), 3 weeks ago) - A simple decorator for functions to run them against all AWS accounts in an organization. 
+- [connelldave/botocove](https://github.com/connelldave/botocove) ([v1.7.1](https://github.com/connelldave/botocove/releases/tag/v1.7.1), 4 weeks ago) - A simple decorator for functions to run them against all AWS accounts in an organization. 
 
 - [kaapiandcode/hugo-goa](https://github.com/kaapiandcode/hugo-goa) ([0.1.0](https://github.com/kaapiandcode/hugo-goa/releases/tag/0.1.0), 6 years ago) - Simple Minimalistic Theme for Hugo
