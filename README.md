@@ -24,6 +24,6 @@ In English, German or Serbian...
 
 ### 🔭 Latest releases I've contributed to
 
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.16.0](https://github.com/superwerker/superwerker/releases/tag/v0.16.0), 1 week ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.16.0](https://github.com/superwerker/superwerker/releases/tag/v0.16.0), 2 weeks ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 
 - [connelldave/botocove](https://github.com/connelldave/botocove) ([v1.7.3](https://github.com/connelldave/botocove/releases/tag/v1.7.3), 6 months ago) - A simple decorator for functions to run them against all AWS accounts in an organization. 
