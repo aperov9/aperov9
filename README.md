@@ -24,4 +24,4 @@ In English, German or Serbian...
 
 ### 🔭 Latest releases I've contributed to
 
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.0.2](https://github.com/superwerker/superwerker/releases/tag/v1.0.2), today) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.0.1](https://github.com/superwerker/superwerker/releases/tag/v1.0.1), 4 days ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
