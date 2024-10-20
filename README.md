@@ -1,4 +1,4 @@
-Hi, I’m Aleksa, an Engineer and Solutions Architect working @kreuzwerker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi, I’m Aleksa, an Engineer and Solutions Architect <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
@@ -27,3 +27,4 @@ In English, German or Serbian...
 - [berenddeboer/cdk-rds-sql](https://github.com/berenddeboer/cdk-rds-sql) ([v3.4.2](https://github.com/berenddeboer/cdk-rds-sql/releases/tag/v3.4.2), 1 month ago) - A CDK construct that allows creating roles and databases an on Aurora Serverless Postgresql cluster.
 
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.1.0](https://github.com/superwerker/superwerker/releases/tag/v1.1.0), 6 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+
