@@ -1,9 +1,4 @@
-Hi, I’m Aleksa, an Engineer and Solutions Architect <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-### 📫 How to reach me
-In English, German or Serbian...
-
-- Mail: aleksa[at]perovic.tech
+Hi, my name Aleksa, and I usually work on DevOps stuff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Preferred Languages and Tools
 
