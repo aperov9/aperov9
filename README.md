@@ -17,5 +17,5 @@ Hi, my name Aleksa, and I usually work on DevOps stuff <img src="https://media.g
 
 ### 🔭 Latest releases I've contributed to
 
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.2.0](https://github.com/superwerker/superwerker/releases/tag/v1.2.0), 11 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.2.0](https://github.com/superwerker/superwerker/releases/tag/v1.2.0), 1 year ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 
